@@ -1,0 +1,1 @@
+This app will give you the current weather of any entered region on the terminal
