@@ -19,4 +19,4 @@ Install all dependencies using <b> npm install</b>
 Run the app in development terminal with valid input data<br>
  <b>node app.js "New York"</b>
 <br>
-Open <a href=" http://localhost:3000">Start server</a> to view it in the browser.
+Open <p><a href=" http://localhost:3000">Start server</a></p> to view it in the browser.
