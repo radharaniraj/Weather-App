@@ -8,10 +8,6 @@
 You’ll need to have Node 8.16.0 or Node 10.16.0 or latest version on your local development machine 
  and also need any of the texteditor.
  <br>
- <h3>Get Started Immediately</h3>
-<br>
-cd weather-1
-<br>
 <h3>Dependencies</h3>
 Install all dependencies using <b> npm install</b>
 <br>
@@ -19,4 +15,4 @@ Install all dependencies using <b> npm install</b>
 Run the app in development terminal with valid input data<br>
  <b>node app.js "New York"</b>
 <br>
-Open <p><a href=" http://localhost:3000">Start server</a></p> to view it in the browser.
+Open <p><a href=" http://localhost:3000"></a></p> to view it in the browser.
