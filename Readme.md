@@ -10,18 +10,13 @@ You’ll need to have Node 8.16.0 or Node 10.16.0 or latest version on your loca
  <br>
  <h3>Get Started Immediately</h3>
 <br>
-Create a project and you are good to go
-<br>
-<h3>npm</h3>
-<br>
-npm init is available in latest version
-<br>
 cd weather-1
 <br>
 <h3>Dependencies</h3>
-Install all dependencies in package.json file
+Install all dependencies using <b> npm install</b>
 <br>
 <h3>Server Start</h3>
-Run the app in development terminal with valid input data node app.js "New York"
+Run the app in development terminal with valid input data<br>
+ <b>node app.js "New York"</b>
 <br>
-Open http://localhost:3000/ to view it in the browser.
+Open <a href=" http://localhost:3000">Start server</a> to view it in the browser.
